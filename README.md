@@ -1,2 +1,2 @@
-esse é meu primeiro projeto no GitHub.
-estou tentando não surtaar.
+Esse é meu primeiro projeto no GitHub.
+Estou tentando não surtar.
